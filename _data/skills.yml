@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Languages
+  description: GoLang, Java, Python, TypeScript
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Functional Programming
+  description: Scala
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Web Technologies
+  description: HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, REST, gRPC
+
+- skill: CI/CD
+  description: GIT, GitHub Actions, GitLab CI/CD, Jenkins, Helm
+
+- skill: Cloud Services
+  description: AWS (S3, CloudWatch, EC2, Elastic Beanstalk, IAM, Lambda, Sagemaker, Route 53, DynamoDB, EKS, CloudFront, CloudFormation, API Gateway), Serverless Framework
+
+- skill: Machine Learning/Deep Learning
+  description: TensorFlow, PyTorch
+
+- skill: Data Streaming/Processing
+  description: Apache Kafka, Apache Spark
+
+- skill: Search Technologies
+  description: Elasticsearch
+
+- skill: Performance Engineering
+  description: Splunk, New Relic
+
+- skill: Data Visualization
+  description: PowerBI, Tableau
+
+- skill: Integration Services
+  description: Dell Boomi

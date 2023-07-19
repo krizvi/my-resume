@@ -1,16 +1,20 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
+- project: qiratasadulhan.com
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  duration: Jan 2012 &mdash; Jul 2012
+  url: "https://www.qiratasadulhan.com"
+  description: >
+    Utilizing my skills in GoLang and ReactJS, I architected and 
+    developed a comprehensive wedding planning website. The front-end 
+    was precisely engineered using ReactJS 16+, employing ReactJS Hooks 
+    and ReactJS Context for efficient state management, ensuring a 
+    highly interactive and responsive user interface.
+    
+    The platform incorporates an array of features: a visually appealing 
+    Picture Gallery, a streamlined Invitation Management system, a 
+    comprehensive Vendor Management interface, an intuitive Event 
+    Management module, and a dynamic Budget Management tool.
+    
+    In the backend, I effectively harnessed Chi Router for efficient 
+    request routing, Postgres DB for robust data management, and Caddy 
+    as a reliable reverse proxy. The entire application was deployed 
+    on AWS EC2, assuring a reliable, swift, and seamless user experience.
