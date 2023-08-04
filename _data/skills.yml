@@ -1,33 +1,31 @@
-# Skills
-- skill: Programming Languages
-  description: GoLang, Java, Python, TypeScript
+- skill: Comprehensive Skill Set
+  description: >
+    Mr. Khalid Rizvi is a seasoned technology professional with a deep
+    passion for technology and a wide array of skills. He is proficient in
+    several programming languages, including GoLang, Java, Python, and
+    TypeScript, and has a strong foundation in functional programming with
+    Scala. His expertise extends to web technologies, where he has worked
+    with HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, and REST,
+    as well as gRPC.
 
-- skill: Functional Programming
-  description: Scala
+    Mr. Rizvi is well-versed in CI/CD practices, having experience with GIT,
+    GitHub Actions, GitLab CI/CD, Jenkins, and Helm. He has also worked
+    extensively with cloud services, particularly AWS, where he has utilized
+    services such as S3, CloudWatch, EC2, Elastic Beanstalk, IAM, Lambda,
+    Sagemaker, Route 53, DynamoDB, EKS, CloudFront, CloudFormation, and API
+    Gateway. He is also proficient in the Serverless Framework.
 
-- skill: Web Technologies
-  description: HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, REST, gRPC
+    In the realm of machine learning and deep learning, Mr. Rizvi has
+    experience with TensorFlow and PyTorch. He has worked with data streaming
+    and processing technologies like Apache Kafka and Apache Spark, and
+    search technologies like Elasticsearch. His skills in performance
+    engineering are demonstrated through his work with Splunk and New Relic.
 
-- skill: CI/CD
-  description: GIT, GitHub Actions, GitLab CI/CD, Jenkins, Helm
-
-- skill: Cloud Services
-  description: AWS (S3, CloudWatch, EC2, Elastic Beanstalk, IAM, Lambda, Sagemaker, Route 53, DynamoDB, EKS, CloudFront, CloudFormation, API Gateway), Serverless Framework
-
-- skill: Machine Learning/Deep Learning
-  description: TensorFlow, PyTorch
-
-- skill: Data Streaming/Processing
-  description: Apache Kafka, Apache Spark
-
-- skill: Search Technologies
-  description: Elasticsearch
-
-- skill: Performance Engineering
-  description: Splunk, New Relic
-
-- skill: Data Visualization
-  description: PowerBI, Tableau
-
-- skill: Integration Services
-  description: Dell Boomi
+    Mr. Rizvi also has a knack for data visualization, having worked with
+    PowerBI and utilized DAX (Data Analysis Expressions) for advanced data
+    manipulation. His experience as an Integration Architect has allowed him
+    to fully leverage Dell Boomi's capabilities to address complex
+    integrations, mentor team members, and consistently deliver strategic,
+    high-impact data management solutions. His passion for technology and
+    continuous learning, combined with his extensive skill set, make him a
+    valuable asset in any technology-driven role.

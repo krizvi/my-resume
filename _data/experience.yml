@@ -1,122 +1,38 @@
 #Jobs
-- position: Integration Architect
-  company: Los Angeles Metropolitan Transportation Authority (LAMETRO), Los Angeles, CA
-  duration: 2022 - Present
+- position: Technology Architect
+  company:
+  duration:
   summary: >
-    As a passionate and high-achieving Integration Architect, I've led the
-    design and execution of advanced interfaces using Dell Boomi,
-    integrating EAM Hexagon and Oracle databases. I've successfully
-    transformed diverse data formats and created robust data integration
-    solutions to improve system efficiency. I fully leveraged Dell Boomi's
-    capabilities to address complex integrations, mentored team members, and
-    consistently delivered strategic, high-impact data management solutions.
-    I've also worked on enhancing controls for AI/ML and Model
-    Transformation, aligning with the latest industry standards.
+    Mr. Khalid Rizvi, a seasoned Technology Architect, has held various roles
+    across multiple industries over the span of his career. His technical
+    expertise is vast and varied, ranging from integration architecture to
+    technology specialization, big data management, and rule architecture.
 
-- position: Technology Specialist
-  company: New York Metropolitan Transportation Authority (NYMTA), New York, NY
-  duration: 2019 - 2022
-  summary: >
-    As a Technology Specialist, I led the integration of renowned EAM Asset 
-    Management Software, developed automated systems for electric bus data 
-    collection, and designed a REST-based application for enhanced message 
-    transmission and database insertion. I also developed a real-time supply 
-    chain solution for optimized inventory management.
+    In his role as an Integration Architect, Mr. Rizvi led the design and
+    execution of advanced interfaces, integrating various systems and databases.
+    He transformed diverse data formats and created robust data integration
+    solutions, improving system efficiency. His ability to leverage the
+    capabilities of various technologies to address complex integrations
+    demonstrates his technical prowess.
 
-- position: Big Data / Integration Architect
-  company: PayPal, San Jose, CA
-  duration: Apr 2018 - Oct 2018
-  summary: >
-    At PayPal, I assisted in mitigating potential data loss in payment 
-    pipelines through auditing, root cause analysis, and collaborative work 
-    with stakeholder SMEs. Technologies used include Scala, Java 8, Spring 
-    Data, Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, 
-    Jenkins CD/CI, GCP, and Kubernetes.
+    As a Rules Architect, Mr. Rizvi designed and implemented an inference
+    rule-based transactional solution, improving regulatory compliance and
+    water quality monitoring. He managed third-party software upgrades,
+    ensuring systematic patching and compliance with industry requirements.
 
-- position: Batch System Design
-  company: Daito Corporation, Tokyo, JP & Saigon, VN
-  duration: Oct 2017 - Apr 2018
-  summary: >
-    I designed solutions to improve machine generated code performance and 
-    scalability, including an actor-based framework for parallel code 
-    execution. Technologies used include Java 8, Redis 4, Spring Boot, 
-    Spring Batch, Tomcat, Akka, Guice, Scala, and Docker.
+    Beyond his technical skills, Mr. Rizvi is a leader of refined manners and
+    liberal education. He fosters a culture of tact, patience, justice,
+    firmness, kindness, and charity within his teams. His leadership style
+    encourages team autonomy, fostering independent planning and execution.
 
-- position: Loyalty System Design, Software Architect
-  company: Mastercard, O’Fallon, MO
-  duration: Nov 2016 - Oct 2017
-  summary: >
-    I led the redesign of a global customer loyalty services system, reducing 
-    latency and driving revenue growth through successful integrations. 
-    Technologies used include Java 8, Spring Boot, Spring Batch, Kafka, 
-    NodeJS, Splunk, Swagger, Scala, Apache Spark, Databricks, and Docker.
+    Mr. Rizvi is quick to recognize and reward meritorious acts, and equally
+    swift in identifying and addressing faults. He distinguishes error from
+    malice, thoughtlessness from incompetency, and well-meant shortcomings from
+    heedless blunders. His leadership embodies the principles of personal honor
+    and ethics, making him a true gentleman in the field of technology.
 
-- position: Rules Architect
-  company: Safe Drinking Water Information System (SDWIS), US EPA, DC
-  duration: Jul 2014 - Nov 2016
-  summary: >
-    I led the design and implementation of an inference rule-based
-    transactional solution for SDWIS. This solution improved regulatory
-    compliance and water quality monitoring. I've also managed third-party
-    software upgrades, ensuring systematic patching and compliance with
-    industry requirements.
-
-- position: Technical Lead
-  company: Health Care Mental eScreening, Veterans Health Administration (VHA), DC
-  duration: Jul 2013 - Jul 2014
-  summary: >
-    I designed a metadata-based application to streamline mental health care 
-    enrollment for veterans. The system allowed for remote assessment 
-    administration and real-time clinical information push to VA electronic 
-    medical records.
-
-- position: Chief Rules Architect
-  company: Civilian Health and Medical Program (CHAMPVA), Department of Veteran Affairs, DC
-  duration: Sep 2011 - Oct 2012
-  summary: >
-    I served as a JRules expert and architect for CHAMPVA, designing and 
-    implementing business rules for application intake, enrollment, 
-    eligibility, and claims benefits.
-
-- position: Technical Lead
-  company: Agricultural Risk Management (ARM), USDA, DC
-  duration: Jan 2011 - Aug 2011
-  summary: >
-    I worked on the ARM, designing and implementing a system to record 
-    inspection data and support the diagnostic process for identifying 
-    potentially harmful pests in imported plant materials.
-
-- position: Application Architect
-  company: Veterans Benefits Administration (VBA), TN
-  duration: July 2009 - Dec 2010
-  summary: >
-    I architected, designed, and implemented a new web-based solution to 
-    measure counselors' service quality to veterans. The system leveraged a 
-    variety of Java EE technologies for data reception, questionnaire 
-    completion, and review logic display.
-
-- position: Integration Consultant
-  company: Veterans Health Administration (VHA), VA
-  duration: Nov 2007 – July 2009
-  summary: >
-    I identified opportunities for artifact reuse, arbitrated design trades, 
-    coordinated cross-project communication, transformed policy into 
-    architectural specifications, and managed requirement tractability.
-
-- position: Search Engine Architect
-  company: Grants.gov, Oakton, VA
-  duration: Nov 2006 - Nov 2007
-  summary: >
-    I designed and implemented a replacement for a database-centric search 
-    with a Google-based search using Google Search Appliance (GSA), 
-    maintaining the existing UI and enabling instantaneous search for newly 
-    added or changed grants.
-
-- position: Principal Consultant
-  company: Computer Science Corporation (CSC), Waltham, MA
-  duration: Jul 1997 - Nov 2006
-  summary: >
-    I began as a Forte developer, later transitioned to Java-based solutions 
-    consulting, and engaged with core Architecture Services practice. I 
-    worked on a variety of projects across multiple industries covering a 
-    wide range of SDLC phases.
+    His professional journey reflects his commitment to excellence, his
+    relentless pursuit of innovation, and his unwavering dedication to personal
+    honor and ethics. Mr. Rizvi is a determined, strategic, and effective
+    leader, adept at steering projects to successful completion while staying
+    updated with cutting-edge technologies.

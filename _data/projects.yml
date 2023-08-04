@@ -1,20 +1,41 @@
-- project: qiratasadulhan.com
+- project: QiratAsADulhan Wedding Website
   role: Founder & Primary Developer
-  duration: Jan 2012 &mdash; Jul 2012
+  duration: Jan 2022 &mdash; Jul 2022
   url: "https://www.qiratasadulhan.com"
   description: >
-    Utilizing my skills in GoLang and ReactJS, I architected and 
-    developed a comprehensive wedding planning website. The front-end 
-    was precisely engineered using ReactJS 16+, employing ReactJS Hooks 
-    and ReactJS Context for efficient state management, ensuring a 
-    highly interactive and responsive user interface.
-    
-    The platform incorporates an array of features: a visually appealing 
-    Picture Gallery, a streamlined Invitation Management system, a 
-    comprehensive Vendor Management interface, an intuitive Event 
-    Management module, and a dynamic Budget Management tool.
-    
-    In the backend, I effectively harnessed Chi Router for efficient 
-    request routing, Postgres DB for robust data management, and Caddy 
-    as a reliable reverse proxy. The entire application was deployed 
-    on AWS EC2, assuring a reliable, swift, and seamless user experience.
+    Mr. Khalid, as the founder and primary developer, utilized his
+    proficiency in GoLang and ReactJS to architect and develop a
+    comprehensive wedding planning platform for his daughter's wedding.
+    The front-end was meticulously crafted using ReactJS 16+, employing
+    ReactJS Hooks and ReactJS Context for efficient state management,
+    ensuring a highly interactive and responsive user interface. The
+    platform incorporates an array of features: a visually appealing
+    Picture Gallery, a streamlined Invitation Management system, a
+    comprehensive Vendor Management interface, an intuitive Event
+    Management module, and a dynamic Budget Management tool. In the
+    backend, Mr. Khalid effectively harnessed Chi Router for efficient
+    request routing, Postgres DB for robust data management, and Caddy as
+    a reliable reverse proxy. The entire application was deployed on AWS
+    EC2, assuring a reliable, swift, and seamless user experience.
+
+- project: MetisMesh
+  role: Founder & Primary Developer
+  duration: Mar 2023 &mdash; present
+  description: >
+    Mr. Khalid embarked on creating MetisMesh—a self-built orchestration
+    system, similar in function to Kubernetes but unique in its choice
+    of technologies. This project not only enhanced his understanding of
+    orchestration at a deep level, but also showcased his proficiency in
+    Go, a language he chose for its simplicity and efficiency. In the
+    realm of API management, MetisMesh leverages the Chi library, chosen
+    for its lightweight and idiomatic approach to building Go HTTP
+    services. For handling containers, he employed the Docker SDK,
+    reaffirming his expertise in Docker and its operations. The system
+    utilizes BoltDB for database management a simplistic yet performant
+    key-value store, and goprocinfo library for the efficient collection
+    of worker metrics. These choices underscore his ability to select
+    and implement the right tools that best align with a project's
+    specific requirements. With MetisMesh, Mr. Khalid has manifested his
+    theoretical understanding of Kubernetes into a practical, tangible
+    system, further solidifying his stature as a seasoned software
+    developer with a deep grasp of orchestration systems.
