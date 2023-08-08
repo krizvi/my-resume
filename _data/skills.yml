@@ -1,31 +1,29 @@
-- skill: Comprehensive Skill Set
+- skill: Enterprise Integration Mastery
   description: >
-    Mr. Khalid Rizvi is a seasoned technology professional with a deep
-    passion for technology and a wide array of skills. He is proficient in
-    several programming languages, including GoLang, Java, Python, and
-    TypeScript, and has a strong foundation in functional programming with
-    Scala. His expertise extends to web technologies, where he has worked
-    with HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, and REST,
-    as well as gRPC.
-
-    Mr. Rizvi is well-versed in CI/CD practices, having experience with GIT,
-    GitHub Actions, GitLab CI/CD, Jenkins, and Helm. He has also worked
-    extensively with cloud services, particularly AWS, where he has utilized
-    services such as S3, CloudWatch, EC2, Elastic Beanstalk, IAM, Lambda,
-    Sagemaker, Route 53, DynamoDB, EKS, CloudFront, CloudFormation, and API
-    Gateway. He is also proficient in the Serverless Framework.
-
-    In the realm of machine learning and deep learning, Mr. Rizvi has
-    experience with TensorFlow and PyTorch. He has worked with data streaming
-    and processing technologies like Apache Kafka and Apache Spark, and
-    search technologies like Elasticsearch. His skills in performance
-    engineering are demonstrated through his work with Splunk and New Relic.
-
-    Mr. Rizvi also has a knack for data visualization, having worked with
-    PowerBI and utilized DAX (Data Analysis Expressions) for advanced data
-    manipulation. His experience as an Integration Architect has allowed him
-    to fully leverage Dell Boomi's capabilities to address complex
-    integrations, mentor team members, and consistently deliver strategic,
-    high-impact data management solutions. His passion for technology and
-    continuous learning, combined with his extensive skill set, make him a
-    valuable asset in any technology-driven role.
+    Mr. Khalid Rizvi brings a wealth of over two decades in technology, 
+    with a deep specialization in enterprise integration solutions. His 
+    leadership in designing and implementing complex integrations is 
+    unparalleled, leveraging frameworks like Dell Boomi, Apache Camel, 
+    and Mulesoft. His expertise in EAI Patterns ensures that integrations 
+    are both robust and scalable.  
+    With a profound command over programming languages like GoLang, Java, 
+    Python, TypeScript, and Scala, he has adeptly handled transformations 
+    and integrations of diverse enterprise applications. His hands-on 
+    experience with web technologies, including ReactJS, Angular, NodeJS, 
+    and GraphQL, ensures seamless web-based integrations that enhance 
+    user experiences.  
+    As a proponent of CI/CD, Mr. Rizvi has seamlessly integrated GIT, 
+    GitHub Actions, Jenkins, and Azure DevOps with Boards into enterprise 
+    workflows, ensuring swift and efficient deployment cycles while 
+    enhancing team collaboration and project management. His cloud 
+    integration capabilities, especially with AWS services like S3, EC2, 
+    Lambda, and CloudFormation, have consistently delivered robust and 
+    cost-effective solutions.  
+    In the realm of data, his proficiency with TensorFlow, PyTorch, 
+    Apache Kafka, and Elasticsearch stands out. He has seamlessly 
+    integrated ML models into enterprise applications, providing 
+    actionable insights. Additionally, his prowess with PowerBI and DAX 
+    offers teams a clear vision through data visualization.  
+    As a seasoned Integration Architect, Mr. Rizvi's strategic vision 
+    and vast skill set make him an invaluable asset for any enterprise 
+    integration challenge.

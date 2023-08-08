@@ -24,21 +24,21 @@ resume_header_contact_info: "703-656-6394 • khalid.rizvi@icloud.com"
 display_header_contact_info: "false"
 
 resume_header_intro: >
-  <p>Mr. Khalid Rizvi, a seasoned Technology Architect, has extensive experience in
-  various industries such as transportation, fintech, and healthcare. He specializes
-  in designing and implementing large-scale software applications, using
-  technologies like Dell Boomi, GoLang, ReactJS, Java, Scala and more. His
-  record of leading technical teams and resolving complex business problems
-  is underpinned by his ability to understand new business domains and
-  technological landscapes swiftly. He has a proven track record in building
-  strong stakeholder relationships, driving investment decisions, and
-  articulating complex technical solutions to diverse audiences. His
-  leadership style encourages team autonomy, fostering independent planning
-  and execution. A determined, strategic, and effective leader, he is adept
-  at steering projects to successful completion while staying updated with
-  cutting-edge technologies. His expertise extends to AI/ML, Model
-  Transformation, and managing third-party software upgrades, aligning with
-  the latest industry requirements and standards.</p>  
+  <p>Mr. Khalid Rizvi is a seasoned Technology Architect with a rich history 
+     spanning various industries, including transportation, fintech, and healthcare. 
+     With a deep specialization in integrating large-scale software applications, he 
+     has consistently leveraged tools like Dell Boomi, GoLang, ReactJS, Java, and 
+     Scala to deliver robust solutions. Mr. Rizvi's leadership has been pivotal in 
+     guiding technical teams through complex business challenges, a testament to his 
+     swift adaptability to new business domains and evolving tech landscapes. His 
+     knack for building and maintaining stakeholder relationships has been 
+     instrumental in driving key decisions. A proponent of clear communication, he 
+     excels in presenting intricate technical solutions to varied audiences. 
+     Emphasizing team autonomy, his leadership approach has fostered a culture of 
+     independent planning and execution. With a keen eye on the future, Mr. Rizvi's 
+     expertise in AI/ML and Model Transformation ensures projects align with the 
+     latest industry standards.
+  </p>  
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -66,7 +66,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_linkedin_url: "https://www.linkedin.com/in/khalidrizvi"
-#  resume_website_url: "http://khalidrizvi.com"
+  #  resume_website_url: "http://khalidrizvi.com"
   resume_medium_url: "https://medium.com/@krizvi"
 resume_print_social_links: true
 
