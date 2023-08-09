@@ -1,118 +1,147 @@
 #Jobs
+- position: Cloud Engineer & Modernization Specialist
+  company: Grants.Gov, Remote, Vienna, VA
+  duration: Jan 2022 - Present
+  summary: >
+    Championed the strategic 'Lift and Shift' initiative for Grants.Gov by 
+    devising a resilient architecture, facilitating the seamless transition 
+    of on-premise codebases from Sun machines to AWS EC2. Orchestrated the 
+    revamp of two critical business services, which originally utilized 
+    nodejs and knockoutjs, to function efficiently on AWS ECS on Fargate. 
+    Showcased leadership in transitioning pivotal applications such as 
+    Search, Adobe AEM, and SOLR to EC2. In the modernization stride, 
+    executed a strategic migration of API routes from F5 load-balancers to 
+    AWS API Gateway, paving the way for enhanced performance and scalability. 
+    This significant contribution not only optimized processes but also 
+    laid the groundwork for future cloud-centric innovations.
+
 - position: Integration Architect
   company: Los Angeles Metropolitan Transportation Authority (LAMETRO), Los Angeles, CA
-  duration: 2022 - Present
+  duration: Mar 2020 - Jan 2022
   summary: >
-    As a passionate and high-achieving Integration Architect, I've led the 
-    design and execution of advanced interfaces using Dell Boomi, integrating 
-    EAM Hexagon and Oracle databases. I've successfully transformed diverse 
-    data formats and created robust data integration solutions to improve 
-    system efficiency. I fully leveraged Dell Boomi's capabilities to address 
-    complex integrations, mentored team members, and consistently delivered 
-    strategic, high-impact data management solutions.
+    At LAMETRO, spearheaded the conception and deployment of sophisticated 
+    interfaces utilizing Dell Boomi, achieving seamless integration between 
+    EAM Hexagon and Oracle databases. Pioneered the transformation of 
+    diverse data formats and orchestrated robust data integration strategies 
+    to augment system efficiency. Capitalized on Dell Boomi's full potential 
+    to tackle intricate integrations, mentored team members, and consistently 
+    delivered high-impact, strategic data management solutions.
 
 - position: Technology Specialist
   company: New York Metropolitan Transportation Authority (NYMTA), New York, NY
-  duration: 2019 - 2022
+  duration: Jan 2019 - Mar 2020
   summary: >
-    As a Technology Specialist, I led the integration of renowned EAM Asset 
-    Management Software, developed automated systems for electric bus data 
-    collection, and designed a REST-based application for enhanced message 
-    transmission and database insertion. I also developed a real-time supply 
-    chain solution for optimized inventory management.
+    At NYMTA, headed the integration of the esteemed EAM Asset Management 
+    Software, innovated automated systems for electric bus data acquisition, 
+    and architected a RESTful application for superior message propagation 
+    and database integration. Conceived a cutting-edge real-time supply 
+    chain solution, revolutionizing inventory management practices.
 
 - position: Big Data / Integration Architect
   company: PayPal, San Jose, CA
   duration: Apr 2018 - Oct 2018
   summary: >
-    At PayPal, I assisted in mitigating potential data loss in payment 
-    pipelines through auditing, root cause analysis, and collaborative work 
-    with stakeholder SMEs. Technologies used include Scala, Java 8, Spring 
-    Data, Spring Boot, Spring Cloud, NodeJS, Angular, Kafka, Databricks, 
-    Jenkins CD/CI, GCP, and Kubernetes.
+    Collaborated with PayPal's team to proactively identify and rectify 
+    potential data inconsistencies within payment pipelines through diligent 
+    auditing, root cause analysis, and synergistic collaboration with 
+    stakeholder SMEs. Leveraged a suite of technologies such as Scala, Java 
+    8, Spring Suite, NodeJS, Angular, Kafka, Databricks, Jenkins CD/CI, GCP, 
+    and Kubernetes.
 
 - position: Batch System Design
   company: Daito Corporation, Tokyo, JP & Saigon, VN
   duration: Oct 2017 - Apr 2018
   summary: >
-    I designed solutions to improve machine generated code performance and 
-    scalability, including an actor-based framework for parallel code 
-    execution. Technologies used include Java 8, Redis 4, Spring Boot, 
-    Spring Batch, Tomcat, Akka, Guice, Scala, and Docker.
+    Devised innovative solutions to elevate machine-generated code 
+    performance and scalability for Daito Corporation. Introduced an 
+    actor-based framework to facilitate parallel code execution, employing 
+    technologies like Java 8, Redis 4, Spring Boot, Akka, Guice, Scala, and Docker.
 
 - position: Loyalty System Design, Software Architect
   company: Mastercard, O’Fallon, MO
   duration: Nov 2016 - Oct 2017
   summary: >
-    I led the redesign of a global customer loyalty services system, reducing 
-    latency and driving revenue growth through successful integrations. 
-    Technologies used include Java 8, Spring Boot, Spring Batch, Kafka, 
-    NodeJS, Splunk, Swagger, Scala, Apache Spark, Databricks, and Docker.
+    Orchestrated the comprehensive redesign of Mastercard's global customer 
+    loyalty system, achieving reduced latency and propelling revenue growth 
+    through seamless integrations. Utilized an array of technologies such as 
+    Java 8, Spring Boot, Kafka, NodeJS, Splunk, Scala, Apache Spark, 
+    Databricks, and Docker.
 
 - position: Rules Architect
   company: Safe Drinking Water Information System (SDWIS), US EPA, DC
   duration: Jul 2014 - Nov 2016
   summary: >
-    I led the design and implementation of an inference rule-based 
-    transactional solution for SDWIS. This solution improved regulatory 
-    compliance and water quality monitoring.
+    At the helm of the Safe Drinking Water Information System (SDWIS) 
+    initiative for the US Environmental Protection Agency in DC, played 
+    a pivotal role in pioneering the design, development, and deployment 
+    of an advanced inference rule-based transactional system. Utilizing 
+    AngularJS for a responsive and interactive frontend experience in tandem 
+    with a robust backend powered by Spring Boot, the system harnessed the 
+    capabilities of rule engines like Drools and Jess to ensure intricate 
+    logic processing and decision-making. This technological amalgamation 
+    and innovation significantly enhanced regulatory adherence, ensuring 
+    water quality standards were not only met but exceeded. Through this 
+    strategic intervention, the SDWIS witnessed a marked improvement in 
+    water quality monitoring, setting a new benchmark for environmental 
+    standards and reinforcing the commitment to safe drinking water for all.
 
 - position: Technical Lead
   company: Health Care Mental eScreening, Veterans Health Administration (VHA), DC
   duration: Jul 2013 - Jul 2014
   summary: >
-    I designed a metadata-based application to streamline mental health care 
-    enrollment for veterans. The system allowed for remote assessment 
-    administration and real-time clinical information push to VA electronic 
-    medical records.
+    Conceptualized a metadata-driven application for VHA, optimizing mental 
+    health care enrollment processes for veterans. The innovative system 
+    facilitated remote assessment administration and instantaneous clinical 
+    information dissemination to VA electronic medical records.
 
 - position: Chief Rules Architect
   company: Civilian Health and Medical Program (CHAMPVA), Department of Veteran Affairs, DC
   duration: Sep 2011 - Oct 2012
   summary: >
-    I served as a JRules expert and architect for CHAMPVA, designing and 
-    implementing business rules for application intake, enrollment, 
-    eligibility, and claims benefits.
+    At CHAMPVA, served as a key JRules authority, designing and executing 
+    business rules governing application intake, enrollment procedures, 
+    eligibility criteria, and claim benefits.
 
 - position: Technical Lead
   company: Agricultural Risk Management (ARM), USDA, DC
   duration: Jan 2011 - Aug 2011
   summary: >
-    I worked on the ARM, designing and implementing a system to record 
-    inspection data and support the diagnostic process for identifying 
-    potentially harmful pests in imported plant materials.
+    Contributed to ARM by architecting and deploying a system dedicated to
+    recording intricate inspection data, bolstering the diagnostic accuracy
+    for detecting potential pests in imported plant materials
 
 - position: Application Architect
   company: Veterans Benefits Administration (VBA), TN
   duration: July 2009 - Dec 2010
   summary: >
-    I architected, designed, and implemented a new web-based solution to 
-    measure counselors' service quality to veterans. The system leveraged a 
-    variety of Java EE technologies for data reception, questionnaire 
-    completion, and review logic display.
+    Designed and realized a state-of-the-art web application for VBA, aimed 
+    at evaluating counselors' service delivery to veterans. The intuitive 
+    system incorporated a range of Java EE technologies for efficient data 
+    reception, questionnaire processing, and review logic representation.
 
 - position: Integration Consultant
   company: Veterans Health Administration (VHA), VA
   duration: Nov 2007 – July 2009
   summary: >
-    I identified opportunities for artifact reuse, arbitrated design trades, 
-    coordinated cross-project communication, transformed policy into 
-    architectural specifications, and managed requirement tractability.
+    At VHA, pinpointed opportunities for artifact repurposing, negotiated 
+    design modifications, facilitated inter-project communication, converted 
+    policies into concrete architectural blueprints, and upheld requirement traceability.
 
 - position: Search Engine Architect
   company: Grants.gov, Oakton, VA
   duration: Nov 2006 - Nov 2007
   summary: >
-    I designed and implemented a replacement for a database-centric search 
-    with a Google-based search using Google Search Appliance (GSA), 
-    maintaining the existing UI and enabling instantaneous search for newly 
-    added or changed grants.
+    Revolutionized the search functionality for Grants.gov by replacing a 
+    database-centric search mechanism with an advanced Google-based solution 
+    via Google Search Appliance (GSA), all while preserving the original UI 
+    and ensuring instantaneous search capabilities for newly updated grants.
 
 - position: Principal Consultant
   company: Computer Science Corporation (CSC), Waltham, MA
   duration: Jul 1997 - Nov 2006
   summary: >
-    I began as a Forte developer, later transitioned to Java-based solutions 
-    consulting, and engaged with core Architecture Services practice. I 
-    worked on a variety of projects across multiple industries covering a 
-    wide range of SDLC phases.
+    Embarked on a journey with CSC as a Forte developer and progressively 
+    transitioned to a Java-centric solutions consultant role. Engaged 
+    extensively with the core Architecture Services division, contributing 
+    to diverse projects spanning multiple industries and covering an 
+    extensive range of SDLC phases.
