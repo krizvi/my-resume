@@ -25,33 +25,56 @@ resume_header_contact_info:     "703-656-6394 • khalid.rizvi@icloud.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: >
-  <p>With a professional journey spanning several decades, I've
-  distinguished myself not just as a transformative technical leader
-  but as a hands-on innovator in the heart of technology evolution. My
-  approach is immersive: I delve into narratives, internalizing the
-  essence of challenges, before meticulously designing solutions using
-  my favored programming paradigms. This depth of understanding
-  facilitates the implementation phase, where I sculpt these designs
-  into tangible solutions using adept software programming languages.
-  I've notably championed pivotal 'Lift and Shift' transformations,
-  seamlessly migrating legacy systems to cloud infrastructures, and led
-  the strategic design and deployment of sophisticated interfaces,
-  ensuring data consistency and integration. My expertise has
-  frequently been tapped to spearhead complex system integrations and
-  design innovative data acquisition solutions. A highlight of my
-  journey was the strategic revamp of a prominent search functionality,
-  replacing traditional mechanisms with advanced solutions, thereby
-  enhancing user accessibility. I also ventured into entrepreneurial
-  pursuits, founding and developing a comprehensive wedding planning
-  platform, emphasizing my prowess in web technologies and cloud
-  services. Throughout my career, I've ensured that my solutions lead
-  to process optimizations, scalable architectures, and revenue growth.
-  My passion goes beyond architecting solutions; I'm deeply committed
-  to mentoring and educating, always eager to guide teams and clients
-  towards realizing the full potential of technological solutions. My
-  expansive skill set encompasses everything from functional
-  programming, web technologies, cloud services, to data streaming and
-  visualization.</p>
+  <p>Over a rich tapestry of decades in the tech industry, I've emerged not 
+  just as a transformative <strong>technical leader</strong>, but as a hands-on 
+  technological artisan. My engagement with projects is not cursory. Instead, 
+  I delve into the narratives of challenges, ensuring that I internalize the 
+  very essence before crafting the apt solution.</p>
+
+  <p>It is this deep-seated understanding that has enabled me to lead pivotal 
+  <strong>'Lift and Shift'</strong> transformations, offering legacy systems a 
+  new lease on life in cloud landscapes. My expertise in strategic interface 
+  design and deployment stands as testimony to my ability to foresee and ensure 
+  data consistency and robust integration.</p>
+
+  <p>In my endeavors, I've steered teams towards the integration of intricate 
+  systems, and pioneered data acquisition innovations, ensuring that businesses 
+  remain at the cusp of technological advancements. A salient point in my career 
+  has been the transformation of search functionalities - shifting from 
+  traditional mechanisms to advanced, user-friendly solutions.</p>
+
+  <p>However, my professional journey isn't limited to roles; I took the 
+  entrepreneurial plunge, founding and sculpting a comprehensive <strong>wedding 
+  planning platform</strong>, highlighting my prowess in cutting-edge web 
+  technologies and cloud services. These achievements don't stand in isolation. 
+  Every solution I've architected has been a stepping stone to process 
+  optimization, scalable architectures, and tangible growth.</p>
+
+  <p>Yet, my passion transcends the realm of solution architecture. I wear the 
+  badge of a mentor with pride, committing myself to the enlightenment of teams 
+  and clients, ensuring that they harness the complete spectrum of technological 
+  solutions.</p>
+
+  <p>As this narrative culminates, I invite you to harness my expertise in 
+  <strong>full-stack project design and development</strong>, with specialization 
+  in <strong>GoLang</strong>, <strong>VueJS</strong>, and <strong>NuxtJS</strong>.</p>
+
+  <p><strong>GoLang</strong>: Synonymous with efficiency, this statically typed, 
+  compiled language, with its inherent performance and safety features, has 
+  revolutionized back-end development.</p>
+
+  <p><strong>VueJS</strong>: This progressive JavaScript framework has carved a 
+  niche for itself in crafting intuitive user interfaces and single-page 
+  applications, thanks to its versatility and performance.</p>
+
+  <p><strong>NuxtJS</strong>: Built atop VueJS, this framework offers a bouquet 
+  of features including server-side rendering and static site generation, 
+  ensuring users always get a seamless experience.</p>
+
+  <p>In summation, I'm grateful for your time and consideration. It's my 
+  aspiration that we collaborate, leveraging my diverse skill set, and chart a 
+  course towards unparalleled technological innovations.</p>
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
