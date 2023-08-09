@@ -25,19 +25,33 @@ resume_header_contact_info:     "703-656-6394 • khalid.rizvi@icloud.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: >
-  <p>As a seasoned Technology Architect with extensive experience in 
-    industries such as transportation, fintech, and healthcare, I specialize in 
-    designing and implementing large-scale software applications, using 
-    technologies like Dell Boomi, GoLang, ReactJS, Java, Scala and more. My record 
-    of leading technical teams and resolving complex business problems is 
-    underpinned by my ability to understand new business domains and technological 
-    landscapes swiftly. I have a proven track record in building strong 
-    stakeholder relationships, driving investment decisions, and articulating 
-    complex technical solutions to diverse audiences. My leadership style 
-    encourages team autonomy, fostering independent planning and execution. A 
-    determined, strategic, and effective leader, I am adept at steering projects 
-    to successful completion while staying updated with cutting-edge 
-    technologies.</p>
+  <p>With a professional journey spanning several decades, I've
+  distinguished myself not just as a transformative technical leader
+  but as a hands-on innovator in the heart of technology evolution. My
+  approach is immersive: I delve into narratives, internalizing the
+  essence of challenges, before meticulously designing solutions using
+  my favored programming paradigms. This depth of understanding
+  facilitates the implementation phase, where I sculpt these designs
+  into tangible solutions using adept software programming languages.
+  I've notably championed pivotal 'Lift and Shift' transformations,
+  seamlessly migrating legacy systems to cloud infrastructures, and led
+  the strategic design and deployment of sophisticated interfaces,
+  ensuring data consistency and integration. My expertise has
+  frequently been tapped to spearhead complex system integrations and
+  design innovative data acquisition solutions. A highlight of my
+  journey was the strategic revamp of a prominent search functionality,
+  replacing traditional mechanisms with advanced solutions, thereby
+  enhancing user accessibility. I also ventured into entrepreneurial
+  pursuits, founding and developing a comprehensive wedding planning
+  platform, emphasizing my prowess in web technologies and cloud
+  services. Throughout my career, I've ensured that my solutions lead
+  to process optimizations, scalable architectures, and revenue growth.
+  My passion goes beyond architecting solutions; I'm deeply committed
+  to mentoring and educating, always eager to guide teams and clients
+  towards realizing the full potential of technological solutions. My
+  expansive skill set encompasses everything from functional
+  programming, web technologies, cloud services, to data streaming and
+  visualization.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -47,10 +61,10 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
+resume_section_experience:      false
+resume_section_education:       false
+resume_section_projects:        false
+resume_section_skills:          false
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
