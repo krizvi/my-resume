@@ -3,10 +3,10 @@
   duration: Jan 2012 &mdash; Jul 2012
   url: "https://www.qiratasadulhan.com"
   description: >
-    Utilizing my skills in GoLang and ReactJS, I architected and 
+    Utilizing my skills in <strong>GoLang</strong> and <strong>ReactJS</strong>, I architected and 
     developed a comprehensive wedding planning website. The front-end 
-    was precisely engineered using ReactJS 16+, employing ReactJS Hooks 
-    and ReactJS Context for efficient state management, ensuring a 
+    was precisely engineered using <strong>ReactJS 16+</strong>, employing <strong>ReactJS Hooks</strong> 
+    and <strong>ReactJS Context</strong> for efficient state management, ensuring a 
     highly interactive and responsive user interface.
     
     The platform incorporates an array of features: a visually appealing 
@@ -14,7 +14,29 @@
     comprehensive Vendor Management interface, an intuitive Event 
     Management module, and a dynamic Budget Management tool.
     
-    In the backend, I effectively harnessed Chi Router for efficient 
-    request routing, Postgres DB for robust data management, and Caddy 
+    In the backend, I effectively harnessed <strong>Chi Router</strong> for efficient 
+    request routing, <strong>Postgres DB</strong> for robust data management, and <strong>Caddy</strong> 
     as a reliable reverse proxy. The entire application was deployed 
-    on AWS EC2, assuring a reliable, swift, and seamless user experience.
+    on <strong>AWS EC2</strong>, assuring a reliable, swift, and seamless user experience.
+
+- project: MetisMesh
+  role: Founder & Primary Developer
+  duration: Mar 2023 &mdash; present
+  description: >
+    Mr. Khalid embarked on creating MetisMesh—a self-built orchestration
+    system, similar in function to <strong>Kubernetes</strong> but unique in its choice
+    of technologies. This project not only enhanced his understanding of
+    orchestration at a deep level, but also showcased his proficiency in
+    <strong>Go</strong>, a language he chose for its simplicity and efficiency. In the
+    realm of API management, MetisMesh leverages the <strong>Chi library</strong>, chosen
+    for its lightweight and idiomatic approach to building Go HTTP
+    services. For handling containers, he employed the <strong>Docker SDK</strong>,
+    reaffirming his expertise in Docker and its operations. The system
+    utilizes <strong>BoltDB</strong> for database management a simplistic yet performant
+    key-value store, and <strong>goprocinfo</strong> library for the efficient collection
+    of worker metrics. These choices underscore his ability to select
+    and implement the right tools that best align with a project's
+    specific requirements. With MetisMesh, Mr. Khalid has manifested his
+    theoretical understanding of Kubernetes into a practical, tangible
+    system, further solidifying his stature as a seasoned software
+    developer with a deep grasp of orchestration systems.

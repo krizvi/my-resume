@@ -1,31 +1,34 @@
-#Jobs
+####jobs:
 - position: Cloud Engineer & Modernization Specialist
   company: Grants.Gov, Remote, Vienna, VA
   duration: Jan 2022 - Present
   summary: >
     Championed the strategic 'Lift and Shift' initiative for Grants.Gov by 
-    devising a resilient architecture, facilitating the seamless transition 
-    of on-premise codebases from Sun machines to AWS EC2. Orchestrated the 
-    revamp of two critical business services, which originally utilized 
-    nodejs and knockoutjs, to function efficiently on AWS ECS on Fargate. 
-    Showcased leadership in transitioning pivotal applications such as 
-    Search, Adobe AEM, and SOLR to EC2. In the modernization stride, 
+    devising a resilient architecture, facilitating the seamless transition of 
+    on-premise codebases from Sun machines to <strong>Amazon Web Services (AWS) 
+    EC2</strong>. Orchestrated the revamp of two critical business services, 
+    which originally utilized <strong>NodeJS</strong> and knockoutjs, to 
+    function efficiently on <strong>AWS ECS</strong> on Fargate. Showcased 
+    leadership in transitioning pivotal applications such as Search, Adobe 
+    AEM, and <strong>SOLR</strong> to EC2. In the modernization stride, 
     executed a strategic migration of API routes from F5 load-balancers to 
-    AWS API Gateway, paving the way for enhanced performance and scalability. 
-    This significant contribution not only optimized processes but also 
-    laid the groundwork for future cloud-centric innovations.
+    <strong>AWS API Gateway</strong>, paving the way for enhanced performance 
+    and scalability. This significant contribution not only optimized 
+    processes but also laid the groundwork for future cloud-centric 
+    innovations.
 
 - position: Integration Architect
   company: Los Angeles Metropolitan Transportation Authority (LAMETRO), Los Angeles, CA
   duration: Mar 2020 - Jan 2022
   summary: >
     At LAMETRO, spearheaded the conception and deployment of sophisticated 
-    interfaces utilizing Dell Boomi, achieving seamless integration between 
-    EAM Hexagon and Oracle databases. Pioneered the transformation of 
-    diverse data formats and orchestrated robust data integration strategies 
-    to augment system efficiency. Capitalized on Dell Boomi's full potential 
-    to tackle intricate integrations, mentored team members, and consistently 
-    delivered high-impact, strategic data management solutions.
+    interfaces utilizing <strong>Dell Boomi</strong>, achieving seamless 
+    integration between EAM Hexagon and Oracle databases. Pioneered the 
+    transformation of diverse data formats and orchestrated robust data 
+    integration strategies to augment system efficiency. Capitalized on Dell 
+    Boomi's full potential to tackle intricate integrations, mentored team 
+    members, and consistently delivered high-impact, strategic data management 
+    solutions.
 
 - position: Technology Specialist
   company: New York Metropolitan Transportation Authority (NYMTA), New York, NY
@@ -33,9 +36,9 @@
   summary: >
     At NYMTA, headed the integration of the esteemed EAM Asset Management 
     Software, innovated automated systems for electric bus data acquisition, 
-    and architected a RESTful application for superior message propagation 
-    and database integration. Conceived a cutting-edge real-time supply 
-    chain solution, revolutionizing inventory management practices.
+    and architected a <strong>RESTful</strong> application for superior message 
+    propagation and database integration. Conceived a cutting-edge real-time 
+    supply chain solution, revolutionizing inventory management practices.
 
 - position: Big Data / Integration Architect
   company: PayPal, San Jose, CA
@@ -44,10 +47,10 @@
     Collaborated with PayPal's team to proactively identify and rectify 
     potential data inconsistencies within payment pipelines through diligent 
     auditing, root cause analysis, and synergistic collaboration with 
-    stakeholder SMEs. Leveraged a suite of technologies such as Scala, Java 
-    8, Spring Suite, NodeJS, Angular, Kafka, Databricks, Jenkins CD/CI, GCP, 
-    and Kubernetes.
-
+    stakeholder SMEs. Leveraged a suite of technologies such as 
+    <strong>Scala</strong>, <strong>Java</strong> 8, Spring Suite, 
+    <strong>NodeJS</strong>, <strong>Angular</strong>, <strong>Kafka</strong>, 
+    Databricks, <strong>Jenkins CD/CI</strong>, GCP, and <strong>Kubernetes</strong>.
 - position: Batch System Design
   company: Daito Corporation, Tokyo, JP & Saigon, VN
   duration: Oct 2017 - Apr 2018
@@ -55,7 +58,8 @@
     Devised innovative solutions to elevate machine-generated code 
     performance and scalability for Daito Corporation. Introduced an 
     actor-based framework to facilitate parallel code execution, employing 
-    technologies like Java 8, Redis 4, Spring Boot, Akka, Guice, Scala, and Docker.
+    technologies like <strong>Java 8</strong>, Redis 4, <strong>Spring Boot</strong>, 
+    Akka, Guice, <strong>Scala</strong>, and <strong>Docker</strong>.
 
 - position: Loyalty System Design, Software Architect
   company: Mastercard, O’Fallon, MO
@@ -64,8 +68,9 @@
     Orchestrated the comprehensive redesign of Mastercard's global customer 
     loyalty system, achieving reduced latency and propelling revenue growth 
     through seamless integrations. Utilized an array of technologies such as 
-    Java 8, Spring Boot, Kafka, NodeJS, Splunk, Scala, Apache Spark, 
-    Databricks, and Docker.
+    <strong>Java 8</strong>, <strong>Spring Boot</strong>, <strong>Kafka</strong>, 
+    <strong>NodeJS</strong>, <strong>Splunk</strong>, <strong>Scala</strong>, 
+    <strong>Apache Spark</strong>, Databricks, and <strong>Docker</strong>.
 
 - position: Rules Architect
   company: Safe Drinking Water Information System (SDWIS), US EPA, DC
@@ -75,16 +80,15 @@
     initiative for the US Environmental Protection Agency in DC, played 
     a pivotal role in pioneering the design, development, and deployment 
     of an advanced inference rule-based transactional system. Utilizing 
-    AngularJS for a responsive and interactive frontend experience in tandem 
-    with a robust backend powered by Spring Boot, the system harnessed the 
-    capabilities of rule engines like Drools and Jess to ensure intricate 
-    logic processing and decision-making. This technological amalgamation 
-    and innovation significantly enhanced regulatory adherence, ensuring 
-    water quality standards were not only met but exceeded. Through this 
-    strategic intervention, the SDWIS witnessed a marked improvement in 
+    <strong>AngularJS</strong> for a responsive and interactive frontend experience 
+    in tandem with a robust backend powered by <strong>Spring Boot</strong>, the 
+    system harnessed the capabilities of rule engines like Drools and Jess 
+    to ensure intricate logic processing and decision-making. This technological 
+    amalgamation and innovation significantly enhanced regulatory adherence, 
+    ensuring water quality standards were not only met but exceeded. Through 
+    this strategic intervention, the SDWIS witnessed a marked improvement in 
     water quality monitoring, setting a new benchmark for environmental 
     standards and reinforcing the commitment to safe drinking water for all.
-
 - position: Technical Lead
   company: Health Care Mental eScreening, Veterans Health Administration (VHA), DC
   duration: Jul 2013 - Jul 2014
@@ -108,7 +112,7 @@
   summary: >
     Contributed to ARM by architecting and deploying a system dedicated to
     recording intricate inspection data, bolstering the diagnostic accuracy
-    for detecting potential pests in imported plant materials
+    for detecting potential pests in imported plant materials.
 
 - position: Application Architect
   company: Veterans Benefits Administration (VBA), TN
@@ -116,7 +120,7 @@
   summary: >
     Designed and realized a state-of-the-art web application for VBA, aimed 
     at evaluating counselors' service delivery to veterans. The intuitive 
-    system incorporated a range of Java EE technologies for efficient data 
+    system incorporated a range of <strong>Java EE</strong> technologies for efficient data 
     reception, questionnaire processing, and review logic representation.
 
 - position: Integration Consultant
@@ -133,7 +137,7 @@
   summary: >
     Revolutionized the search functionality for Grants.gov by replacing a 
     database-centric search mechanism with an advanced Google-based solution 
-    via Google Search Appliance (GSA), all while preserving the original UI 
+    via <strong>Google Search Appliance (GSA)</strong>, all while preserving the original UI 
     and ensuring instantaneous search capabilities for newly updated grants.
 
 - position: Principal Consultant

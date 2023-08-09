@@ -1,33 +1,29 @@
 # Skills
 - skill: Programming Languages
   description: GoLang, Java, Python, TypeScript
-
 - skill: Functional Programming
   description: Scala
-
 - skill: Web Technologies
-  description: HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, REST, gRPC
-
-- skill: CI/CD
-  description: GIT, GitHub Actions, GitLab CI/CD, Jenkins, Helm
-
+  description: HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, Representational State Transfer (REST), gRPC, Vue3JS, NuxtJS
+- skill: Continuous Integration/Continuous Deployment (CI/CD)
+  description: GIT, GitHub Actions, GitLab Continuous Integration/Continuous Deployment, Jenkins, Helm, Azure DevOps (ADO) Boards, TerraForm, AWS Serverless Application Model (SAM), Ansible
 - skill: Cloud Services
-  description: AWS (S3, CloudWatch, EC2, Elastic Beanstalk, IAM, Lambda, Sagemaker, Route 53, DynamoDB, EKS, CloudFront, CloudFormation, API Gateway), Serverless Framework
-
+  description: Amazon Web Services (AWS) services such as Simple Storage Service (S3), CloudWatch, Elastic Compute Cloud (EC2), Elastic Beanstalk, Identity and Access Management (IAM), Lambda, Sagemaker, Route 53, DynamoDB, Elastic Kubernetes Service (EKS), CloudFront, CloudFormation, API Gateway, Elastic Container Service (ECS), Serverless Framework, RedHat OpenShift
 - skill: Machine Learning/Deep Learning
-  description: TensorFlow, PyTorch
-
+  description: TensorFlow, PyTorch, Gorgina (GoLang Artificial Intelligence libraries)
 - skill: Data Streaming/Processing
   description: Apache Kafka, Apache Spark
-
 - skill: Search Technologies
-  description: Elasticsearch
-
+  description: Elasticsearch, SOLR, Apache Lucene, Google Search Appliance (GSA)
 - skill: Performance Engineering
   description: Splunk, New Relic
-
 - skill: Data Visualization
-  description: PowerBI, Tableau
-
+  description: Power Business Intelligence (PowerBI) (Data Analysis Expressions - DAX), Tableau
 - skill: Integration Services
   description: Dell Boomi
+- skill: Project & Issue Management Tools
+  description: Jira, Azure DevOps (ADO) Boards, ServiceNow (SNOW)
+- skill: Enterprise Asset Management (EAM)
+  description: Hexagon EAM
+- skill: Linux Distributions
+  description: Ubuntu, RedHat, Kali Linux
