@@ -25,28 +25,36 @@ resume_header_contact_info: "703-656-6394 • khalid.rizvi@icloud.com"
 display_header_contact_info: "true"
 
 resume_header_intro: >
-  <p>As a seasoned Technology Architect with extensive experience in 
-    industries such as transportation, fintech, and healthcare, I specialize in 
-    designing and implementing large-scale software applications, using 
-    technologies like <strong>Dell Boomi</strong>, <strong>GoLang</strong>, <strong>ReactJS</strong>, 
-    <strong>Java</strong>, <strong>Scala</strong> and more. My record of leading technical 
-    teams and resolving complex business problems is underpinned by my ability 
-    to understand new business domains and technological landscapes swiftly. 
-    I have a proven track record in building strong stakeholder relationships, 
-    driving investment decisions, and articulating complex technical solutions 
-    to diverse audiences. My leadership style encourages team autonomy, fostering 
-    independent planning and execution. A determined, strategic, and effective 
-    leader, I am adept at steering projects to successful completion while 
-    staying updated with cutting-edge technologies.</p>
-  <p>I am currently seeking opportunities as a full-stack design developer, 
-    particularly in building AI-enabled systems with <strong>GoLang</strong> at the 
-    backend. For frontend solutions, I envision leveraging the capabilities of 
-    <strong>Vue3JS</strong> for Single Page Applications (SPA) combined with 
-    <strong>NuxtJS</strong> for Server-Side Rendering (SSR). This combination aligns 
-    perfectly with my experience and vision for creating modern, efficient, and 
-    impactful software solutions. I am excited to bring my expertise and 
-    knowledge to a dynamic team that shares my passion for innovation and 
-    excellence.</p>
+  <p>As a seasoned Software Consultant, I excel at diagnosing intricate system 
+  infrastructure issues in both on-premises and AWS cloud environments. My 
+  proficiency shines particularly in 'lift and shift' migrations, and I take pride 
+  in modernizing architectures using cloud-native patterns such as the strangler 
+  pattern.</p>
+
+  <p>My expertise runs deep in mentoring teams, driving rapid application 
+  engineering, and formulating frameworks that curtail development time and costs. 
+  My consistent focus has always been on delivering exceptional value to clients, 
+  optimizing software designs for both business and private users.</p>
+
+  <p>Among my key competencies, I am a hands-on programmer with guru-level 
+  expertise in GoLang, Java, and JavaScript. My full-stack development prowess is 
+  demonstrated using Vue3.js for SPAs and Nuxt.js for SSR. With a solid background 
+  in Data Migration & Microservices Architecture, I have also championed cloud 
+  solutions, mastering the 'Lift & Shift' from on-premises to AWS and excelling in 
+  modernizing with cloud-native techniques. My familiarity with the AWS Suite is 
+  comprehensive, encompassing tools such as Lambda, SQS, and DynamoDB, among 
+  others. In the realm of DevOps & CI/CD, I am proficient with Jenkins, Docker, 
+  OpenShift, and the AWS toolset, in addition to Azure DevOps with Boards on 
+  Microsoft Azure cloud. My skill set also covers Security Solutions with a deep 
+  understanding of Identity Management. Infrastructure as Code is another forte, 
+  where I wield tools like Terraform, AWS SAM, and Ansible. Additionally, I have 
+  substantial experience with monitoring and management tools, particularly AWS 
+  CloudWatch and Jira.</p>
+
+  <p>If you seek a dedicated partner to elevate your software solutions and infrastructure, 
+  I would be honored to discuss how my expertise can benefit your endeavors.</p>
+
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
