@@ -10,47 +10,39 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
-resume_name:                    "Khalid Rizvi"
-resume_title:                   "Excellence through innovation."
+resume_avatar: "false"
+resume_name: "Khalid Rizvi"
+resume_title: "Excellence through innovation."
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "khalid.rizvi@icloud.com"
+resume_contact_email: "khalid.rizvi@icloud.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "703-656-6394"
-resume_contact_address:         "9821 Spring Ridge Lane, Vienna, VA 22182"
+resume_contact_telephone: "703-656-6394"
+resume_contact_address: "9821 Spring Ridge Lane, Vienna, VA 22182"
 
-resume_header_contact_info:     "703-656-6394 • khalid.rizvi@icloud.com"
-display_header_contact_info:    "true"
+resume_header_contact_info: "703-656-6394 • khalid.rizvi@icloud.com"
+display_header_contact_info: "true"
 
 resume_header_intro: >
-  <p>As a seasoned Software Consultant, I excel at diagnosing intricate system infrastructure 
-  issues in both on-premises and AWS cloud environments. My proficiency shines particularly in
-  'lift and shift' migrations, and I take pride in modernizing architectures using cloud-native 
-  patterns such as the strangler pattern.</p>
+  <p>I am a dynamic and results-driven Software Consultant with an esteemed track record of spearheading intricate system diagnostics in both traditional on-premises and sophisticated AWS cloud platforms. My niche is rooted in seamless 'lift and shift' migrations, with a specialty in infusing modern vitality into systems through cloud-native paradigms such as the strangler pattern.</p>
 
-  <p>My expertise runs deep in mentoring teams, driving rapid application engineering, and 
-  formulating frameworks that curtail development time and costs. My consistent focus has 
-  always been on delivering exceptional value to clients, optimizing software designs for both 
-  business and private users.</p>
+  <p>Distinguished not just by my technical acumen, I am deeply passionate about mentoring and elevating teams, championing expedited application engineering, and devising strategies that dramatically trim development cycles and financial overheads. At the heart of my ethos lies an unwavering commitment to client-centric excellence, and an aptitude for fine-tuning software constructs to resonate with both corporate and individual users.</p>
 
-  <p><b>Key Competencies:</b></p>
+  <p><b>Key Strengths:</b></p>
   <ul>
-      <li>Hands-on programmer with guru-level expertise in GoLang, Java, and JavaScript.</li>
-      <li>Full-stack development expertise, primarily using Vue3.js for SPAs and Nuxt.js for SSR.</li>
-      <li>Data Migration & Microservices Architecture.</li>
-      <li>Cloud Solutions: Skilled in 'Lift & Shift' from on-premises to AWS and adept at 
-      modernizing with cloud-native techniques.</li>
-      <li>AWS Suite: Including but not limited to Lambda, SQS, SNS, Kinesis, EC2, Elasticsearch, 
-      S3, MongoDB, RDS, RedShift, IAM policies, EKS, ECS with Fargate, and DynamoDB.</li>
-      <li>DevOps & CI/CD: Jenkins, Docker, OpenShift, AWS toolset (CodeDeploy, CodeCommit, 
-      CodeBuild, CodePipeline), Ansible, and Azure DevOps with Boards on Microsoft Azure cloud.</li>
-      <li>Security Solutions: Comprehensive understanding of Identity Management, including 
-      Auth, OpenID & SAML.</li>
-      <li>Infrastructure as Code: Proficient with tools like Terraform, AWS SAM, and Ansible.</li>
-      <li>Monitoring & Management: Experienced with AWS CloudWatch and Jira.</li>
+      <li>Master coder with specialized prowess in GoLang, Java, and JavaScript.</li>
+      <li>Stellar full-stack development finesse using Vue3.js for immersive SPAs and Nuxt.js for optimized SSR.</li>
+      <li>Champion of Data Migration & Microservices Architecture.</li>
+      <li>Cloud Wizardry: Acclaimed for 'Lift & Shift' from on-premises to AWS, combined with a flair for innovation via cloud-native methodologies.</li>
+      <li>AWS Suite Maestro: Comprehensive command over Lambda, SQS, SNS, Kinesis, EC2, Elasticsearch, S3, MongoDB, RDS, RedShift, and more.</li>
+      <li>DevOps & CI/CD Virtuoso: Adept with Jenkins, Docker, OpenShift, AWS toolkit, Ansible, and Azure DevOps.</li>
+      <li>Security Maven: Deep-rooted expertise in Identity Management frameworks like Auth, OpenID & SAML.</li>
+      <li>Infrastructure Visionary: Proficient harnessing Terraform, AWS SAM, and Ansible.</li>
+      <li>Monitoring & Oversight: Skilled with tools such as AWS CloudWatch and Jira.</li>
   </ul>
+
+  <p>In light of my robust expertise and accomplishments, I am currently seeking an unparalleled opportunity to lead Full Stack Designing and development projects. Specifically, I am enthusiastic about applications that amalgamate a robust AI engine backend, orchestrated in GoLang, complemented by a SPA Vue3JS frontend leveraging NuxtJS for SSR on a Node.js server. If you're looking for someone with my unique blend of skills and vision to drive transformative digital initiatives, let's connect.</p>
 
 
 
@@ -62,34 +54,34 @@ resume_header_intro: >
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      false
-resume_section_education:       false
-resume_section_projects:        false
-resume_section_skills:          false
-resume_section_recognition:     false
-resume_section_links:           false
-resume_section_associations:    false
+resume_section_experience: false
+resume_section_education: false
+resume_section_projects: false
+resume_section_skills: false
+resume_section_recognition: false
+resume_section_links: false
+resume_section_associations: false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/krizvi"
+  resume_github_url: "https://github.com/krizvi"
   #  resume_twitter_url:           "http://twitter.com/jglovier"
   #  resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/khalidrizvi"
-  resume_website_url:           "http://khalidrizvi.com"
-  resume_medium_url:            "https://medium.com/@krizvi"
-resume_print_social_links:      true
+  resume_linkedin_url: "https://www.linkedin.com/in/khalidrizvi"
+  resume_website_url: "http://khalidrizvi.com"
+  resume_medium_url: "https://medium.com/@krizvi"
+resume_print_social_links: true
 
 # Design settings
-resume_theme:                   default
+resume_theme: default
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
