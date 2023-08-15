@@ -1,109 +1,49 @@
 #Jobs
-- position: Application** Administrator
-  company: Fifth Technologies** – New York, NY
+- position: Application Administrator
+  company: Fifth Technologies – New York, NY
   duration: 12/2022 - Present
   summary: >
-    <p>At Fifth Gen, I played an instrumental role in overseeing the backend
-    infrastructure of several Java-based web applications, ensuring they
-    consistently delivered high availability and peak performance. My
-    proactive approach in implementing advanced monitoring and alert systems
-    led to a significant 20% reduction in downtime. Additionally, my
-    leadership in conducting rigorous security audits resulted in a 30%
-    decrease in potential security threats. My expertise in crafting robust
-    <strong>RESTful APIs</strong> using Java and the Spring Framework
-    streamlined communication between frontend and backend systems, enhancing
-    overall application efficiency.</p>
-    
-    <p>My technical acumen extended beyond backend operations. I collaborated
-    closely with the frontend team, leveraging <strong>Node.js, Express, and
-    React</strong> to develop interactive user interfaces that elevated the
-    user experience. My initiative to implement server-side rendering
-    (<strong>SSR</strong>) not only improved initial page load times but also
-    optimized search engine visibility. Furthermore, my commitment to
-    mentoring saw me regularly conduct code reviews and provide guidance to
-    junior developers, ensuring the team consistently produced high-quality
-    code and fostered a culture of continuous learning.</p>
+    <p>At Fifth Gen, I championed backend infrastructure for Java-based 
+    web applications, achieving high availability and performance. My 
+    innovative monitoring systems reduced downtime by 20%. My expertise 
+    in crafting <strong>RESTful APIs</strong> using Java and the Spring 
+    Framework enhanced application efficiency. Collaborating with the 
+    frontend team, I utilized <strong>Node.js, Express, and React</strong> 
+    to elevate user experiences, while also mentoring junior developers 
+    to uphold code quality.</p>
 
 - position: Front-End Mobile Application Developer
   company: PRISM ANALYTICS, Washington, DC
   duration: Feb 2022 - Nov 2022
   summary: >
-    <p>During my tenure at Prism Analytics, I played a pivotal role in 
-    modernizing the Grants.gov mobile application. I collaborated closely 
-    with HHS (The Department of Human & Health Services) to successfully 
-    upgrade to the latest <strong>React Native framework</strong>, enhancing 
-    the overall user experience for federal grant searches on mobile 
-    devices.</p>
-
-    <p>Under the mentorship of seasoned Java backend developers, I 
-    significantly optimized the application's performance. My contributions 
-    spanned from developing and deploying the latest version of the app, 
-    maintaining its UI, to introducing innovative features like two-factor 
-    authentication using Auth 2.0.</p>
-
-    <p>I thrived in a collaborative environment, working alongside 
-    multidisciplinary teams and leveraging <strong>Agile development 
-    frameworks</strong>. My efforts in authoring code enhancements and 
-    translating technical concepts ensured a robust foundation for future 
-    developers on the Grants.gov platform. Furthermore, my collaboration 
-    with the <strong>AWS migration team</strong> was instrumental in 
-    facilitating a seamless transition to AWS cloud computing, showcasing 
-    my adaptability and forward-thinking approach.</p>
+    <p>At Prism Analytics, I spearheaded the modernization of the 
+    Grants.gov mobile application, collaborating with HHS to upgrade to 
+    the latest <strong>React Native framework</strong>. My efforts 
+    optimized the application's performance, and I introduced features 
+    like two-factor authentication using Auth 2.0. My collaboration with 
+    the <strong>AWS migration team</strong> ensured a smooth transition 
+    to AWS cloud computing.</p>
 
 - position: Application Developer
-  company:  REFINITIV LSEG, New York, NY
+  company: REFINITIV LSEG, New York, NY
   duration: Oct 2020 - Jan 2022
   summary: >
-    <p>During my tenure at <strong>Refinitiv</strong>, an esteemed LSEG 
-    business, I was deeply involved in enhancing the functionality and 
-    efficiency of our financial platforms. My collaborations with 
-    stakeholders ensured the delivery of optimal project capabilities, 
-    while my hands-on work in updating NAIC ratings, CLO deals, and 
-    Refinitiv LPC products showcased my dedication to accuracy and 
-    relevance in financial data.</p>
-
-    <p>My technical prowess was evident in my extensive use of the 
-    <strong>MySQL</strong> database for efficient financial data management 
-    and in the development of applications using <strong>ASP.NET, 
-    JavaScript, and SQL Server</strong>. I took pride in optimizing 
-    database performance, designing efficient schemas, and crafting 
-    optimized SQL queries. My role also encompassed the integration of 
-    third-party APIs, troubleshooting production issues, and logging 
-    critical user activities to enhance system security and performance.</p>
-
-    <p>My contributions extended beyond technical tasks. I kept a keen eye 
-    on executive roles in People Stories Reports, updated fundraising 
-    information, and stayed abreast of credit facilities and loans 
-    pertinent to the middle market. Furthermore, I played a pivotal role 
-    in updating company executives on private equity fund allocations and 
-    investments. My commitment to excellence was further highlighted 
-    through my active participation in design development meetings, code 
-    reviews, and the authoring of code enhancements for future releases.</p>
+    <p>At <strong>Refinitiv</strong>, I enhanced our financial platforms, 
+    updating NAIC ratings, CLO deals, and Refinitiv LPC products. My 
+    technical skills shone as I used <strong>MySQL</strong>, 
+    <strong>ASP.NET, JavaScript, and SQL Server</strong> for efficient 
+    financial data management. I also played a pivotal role in updating 
+    company executives on private equity fund allocations and investments, 
+    while actively participating in design development meetings and code 
+    reviews.</p>
 
 - position: Junior Java Developer
-  company:  TRI-STATE LIMO, New York, NY
-  duration:  Jun 2015 - Oct 2019
+  company: TRI-STATE LIMO, New York, NY
+  duration: Jun 2015 - Oct 2019
   summary: >
-    <p>As a junior full-stack developer intern, I played a pivotal role in 
-    the design and development of a comprehensive limousine transportation 
-    solution. This innovative platform was crafted to assist our client in 
-    managing the multifaceted operations associated with fleet maintenance. 
-    The solution's centerpiece is an automated dashboard, developed using 
-    <strong>Java Spring Boot</strong>, which streamlines daily intake logging 
-    for fleet deployment.</p>
-
-    <p>Among the solution's standout features are tailored client pickup 
-    bookings, bi-weekly payroll processing for staff, monthly invoice 
-    generation, and predictive scheduling tools. These functionalities 
-    empower executives, fleet managers, and line staff to capture, gauge, 
-    and dissect the intricacies of fleet maintenance and operational costs. 
-    Furthermore, the platform boasts robust reporting capabilities, 
-    equipped with decision support tools that aid in cost and inventory 
-    management.</p>
-
-    <p>My contributions extended beyond development. I meticulously 
-    documented software specifications, provided remote customer support 
-    via an e-ticketing system, and optimized web assets for peak 
-    performance. My technical acumen was further showcased as I diagnosed 
-    and rectified code errors, ensuring seamless integration of proprietary 
-    applications.</p>
+    <p>With TRI-STATE LIMO, I was instrumental in developing a limousine 
+    transportation solution using <strong>Java Spring Boot</strong>. This 
+    platform streamlined fleet maintenance operations, from client pickups 
+    to payroll processing. I also documented software specifications, 
+    provided customer support, and optimized web assets, ensuring the 
+    seamless integration of proprietary applications.</p>

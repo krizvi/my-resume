@@ -1,33 +1,40 @@
 # Skills
-- skill: Programming Languages
-  description: GoLang, Java, Python, TypeScript
+- skill: Cloud Engineering & Architecture
+  description: >
+    <p>As a dedicated Cloud Engineer, these skills empower me to design, deploy, and manage scalable cloud solutions:</p>
+    - Amazon Web Services (AWS)
+    - Azure
+    - Splunk
+    - Identity and Access Management
 
-- skill: Functional Programming
-  description: Scala
+- skill: Mobile & Web Development
+  description: >
+    <p>My proficiency in these tools ensures the creation of responsive and efficient applications:</p>
+    - React Native
+    - ReactJS
+    - ASP.NET
+    - JavaScript
+    - Vue JS
+    - Angular JS
+    - XCode
 
-- skill: Web Technologies
-  description: HTML, CSS, ReactJS, Angular, NodeJS, ExpressJS, GraphQL, REST, gRPC
+- skill: Backend Development & Database Management
+  description: >
+    <p>These skills are pivotal in ensuring robust backend operations and efficient data management:</p>
+    - Java Spring Boot
+    - NodeJS
+    - SQL
+    - MySQL
+    - Rest Api’s
 
-- skill: CI/CD
-  description: GIT, GitHub Actions, GitLab CI/CD, Jenkins, Helm
+- skill: Data Visualization & Analysis
+  description: >
+    <p>My expertise in these areas aids in deriving actionable insights from complex data sets:</p>
+    - Tableau
+    - Microsoft PowerBi
 
-- skill: Cloud Services
-  description: AWS (S3, CloudWatch, EC2, Elastic Beanstalk, IAM, Lambda, Sagemaker, Route 53, DynamoDB, EKS, CloudFront, CloudFormation, API Gateway), Serverless Framework
-
-- skill: Machine Learning/Deep Learning
-  description: TensorFlow, PyTorch
-
-- skill: Data Streaming/Processing
-  description: Apache Kafka, Apache Spark
-
-- skill: Search Technologies
-  description: Elasticsearch
-
-- skill: Performance Engineering
-  description: Splunk, New Relic
-
-- skill: Data Visualization
-  description: PowerBI, Tableau
-
-- skill: Integration Services
-  description: Dell Boomi
+- skill: Certifications
+  description: >
+    <p>My certifications validate my expertise and commitment to the field:</p>
+    - AWS (Amazon Web Services) Solutions Architect- Associate Certified
+    - CompTIA Security+ ce Certified

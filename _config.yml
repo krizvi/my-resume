@@ -1,5 +1,5 @@
 # Site settings
-title: "Khalid Portfolio"
+title: "Jarry Portfolio"
 description: "An interactive showcase of Khalid Rizvi's extensive technical skills and experiences, hosted with Jekyll and GitHub Pages."
 
 
@@ -18,26 +18,30 @@ resume_title: "Innovator. Developer. Trailblazer."
 resume_contact_email: "jarry.a.rizvi@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "(917)378-4885"
+resume_contact_telephone: "(917) 378-4885"
 resume_contact_address: "Hicksville, NY 11040"
 
-resume_header_contact_info: "(917)378-4885 • jarry.a.rizvi@gmail.com"
+resume_header_contact_info: "(917) 378-4885 • jarry.a.rizvi@gmail.com"
 display_header_contact_info: "true"
 
+Summary:
 resume_header_intro: >
-  resume_header_intro: >
-    <p>Passionate <strong>Full Stack Developer</strong> 
-    and <strong>Cloud Engineer</strong> with over <strong>5 years</strong> 
-    of experience, driven by an insatiable desire to learn and innovate. 
-    My journey, reminiscent of the tale of the lion and the mouse, 
-    showcases my ability to think differently and make impactful 
-    contributions, no matter the scale. Certified in 
-    <strong>AWS Solutions Architect- Associate</strong> and 
-    <strong>CompTIA Security+ ce</strong>, I am looking for an opportunity where I am challenged to grow and have a proven track record 
-    in cloud engineering, mobile native development, and problem-solving. 
-    My goal is to leverage my diverse technical skills and certifications 
-    to drive innovation, ensuring the delivery of scalable and secure 
-    solutions that align with business objectives.</p>
+  <p>As a seasoned <strong>Full Stack Developer</strong> and 
+  <strong>Cloud Engineer</strong> with over <strong>5 years</strong> of 
+  experience, I possess a deep-rooted passion for cloud technologies and 
+  innovation. With certifications in <strong>AWS Solutions Architect- 
+  Associate</strong> and <strong>CompTIA Security+ ce</strong>, I've 
+  demonstrated a consistent ability to devise and implement cutting-edge 
+  solutions that drive operational excellence.</p>
+
+  <p>My proactive approach, combined with my expertise as a mobile native 
+  developer, equips me to address intricate challenges with precision. 
+  I'm eager to collaborate with a forward-thinking AWS DevOps team 
+  comprising of doers, where I can further harness my skills to architect 
+  and deploy scalable, secure cloud solutions. In pursuit of this vision, 
+  I'm actively seeking opportunities in the realm of solution DevOps on 
+  the AWS platform, aiming to contribute meaningfully and foster 
+  innovation in the cloud domain.</p>
 
 
 # use "yes" to display the email contact button,
@@ -55,20 +59,20 @@ resume_section_skills: true
 resume_section_recognition: false
 resume_section_links: false
 resume_section_associations: false
-# resume_section_interests:       true
+resume_section_interests: true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url: "https://github.com/krizvi"
-  #  resume_twitter_url:           "http://twitter.com/jglovier"
-  #  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_linkedin_url: "https://www.linkedin.com/in/khalidrizvi"
-  resume_website_url: "http://khalidrizvi.com"
-  resume_medium_url: "https://medium.com/@krizvi"
-resume_print_social_links: false
+#resume_social_links:
+#  resume_github_url: "https://github.com/krizvi"
+#  #  resume_twitter_url:           "http://twitter.com/jglovier"
+#  #  resume_dribbble_url:          "https://dribbble.com/jag"
+#  # resume_facebook_url:          "insert Facebook URL here"
+#  # resume_instagram_url:         "insert your Instagram URL here"
+#  resume_linkedin_url: "https://www.linkedin.com/in/khalidrizvi"
+#  resume_website_url: "http://khalidrizvi.com"
+#  resume_medium_url: "https://medium.com/@krizvi"
+#resume_print_social_links: false
 
 # Design settings
 resume_theme: default
