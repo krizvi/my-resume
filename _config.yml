@@ -11,43 +11,33 @@ sass:
 
 # Resume settings
 resume_avatar: "false"
-resume_name: "Khalid Rizvi"
-resume_title: "Excellence through innovation."
+resume_name: "Jarry Rizvi"
+resume_title: "Innovator. Developer. Trailblazer."
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "khalid.rizvi@icloud.com"
+resume_contact_email: "jarry.a.rizvi@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "703-656-6394"
-resume_contact_address: "9821 Spring Ridge Lane, Vienna, VA 22182"
+resume_contact_telephone: "(917)378-4885"
+resume_contact_address: "Hicksville, NY 11040"
 
-resume_header_contact_info: "703-656-6394 • khalid.rizvi@icloud.com"
+resume_header_contact_info: "(917)378-4885 • jarry.a.rizvi@gmail.com"
 display_header_contact_info: "true"
 
 resume_header_intro: >
-  <p>I am a dynamic and results-driven Software Consultant with an esteemed track record of spearheading intricate system diagnostics in both traditional on-premises and sophisticated AWS cloud platforms. My niche is rooted in seamless 'lift and shift' migrations, with a specialty in infusing modern vitality into systems through cloud-native paradigms such as the strangler pattern.</p>
-
-  <p>Distinguished not just by my technical acumen, I am deeply passionate about mentoring and elevating teams, championing expedited application engineering, and devising strategies that dramatically trim development cycles and financial overheads. At the heart of my ethos lies an unwavering commitment to client-centric excellence, and an aptitude for fine-tuning software constructs to resonate with both corporate and individual users.</p>
-
-  <p><b>Key Strengths:</b></p>
-  <ul>
-      <li>Master coder with specialized prowess in GoLang, Java, and JavaScript.</li>
-      <li>Stellar full-stack development finesse using Vue3.js for immersive SPAs and Nuxt.js for optimized SSR.</li>
-      <li>Champion of Data Migration & Microservices Architecture.</li>
-      <li>Cloud Wizardry: Acclaimed for 'Lift & Shift' from on-premises to AWS, combined with a flair for innovation via cloud-native methodologies.</li>
-      <li>AWS Suite Maestro: Comprehensive command over Lambda, SQS, SNS, Kinesis, EC2, Elasticsearch, S3, MongoDB, RDS, RedShift, and more.</li>
-      <li>DevOps & CI/CD Virtuoso: Adept with Jenkins, Docker, OpenShift, AWS toolkit, Ansible, and Azure DevOps.</li>
-      <li>Security Maven: Deep-rooted expertise in Identity Management frameworks like Auth, OpenID & SAML.</li>
-      <li>Infrastructure Visionary: Proficient harnessing Terraform, AWS SAM, and Ansible.</li>
-      <li>Monitoring & Oversight: Skilled with tools such as AWS CloudWatch and Jira.</li>
-  </ul>
-
-  <p>In light of my robust expertise and accomplishments, I am currently seeking an unparalleled opportunity to lead Full Stack Designing and development projects. Specifically, I am enthusiastic about applications that amalgamate a robust AI engine backend, orchestrated in GoLang, complemented by a SPA Vue3JS frontend leveraging NuxtJS for SSR on a Node.js server. If you're looking for someone with my unique blend of skills and vision to drive transformative digital initiatives, let's connect.</p>
-
-
-
-
-
+  resume_header_intro: >
+    <p>Passionate <strong>Full Stack Developer</strong> 
+    and <strong>Cloud Engineer</strong> with over <strong>5 years</strong> 
+    of experience, driven by an insatiable desire to learn and innovate. 
+    My journey, reminiscent of the tale of the lion and the mouse, 
+    showcases my ability to think differently and make impactful 
+    contributions, no matter the scale. Certified in 
+    <strong>AWS Solutions Architect- Associate</strong> and 
+    <strong>CompTIA Security+ ce</strong>, I am looking for an opportunity where I am challenged to grow and have a proven track record 
+    in cloud engineering, mobile native development, and problem-solving. 
+    My goal is to leverage my diverse technical skills and certifications 
+    to drive innovation, ensuring the delivery of scalable and secure 
+    solutions that align with business objectives.</p>
 
 
 # use "yes" to display the email contact button,
@@ -58,10 +48,10 @@ resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience: false
-resume_section_education: false
+resume_section_experience: true
+resume_section_education: true
 resume_section_projects: false
-resume_section_skills: false
+resume_section_skills: true
 resume_section_recognition: false
 resume_section_links: false
 resume_section_associations: false
@@ -78,7 +68,7 @@ resume_social_links:
   resume_linkedin_url: "https://www.linkedin.com/in/khalidrizvi"
   resume_website_url: "http://khalidrizvi.com"
   resume_medium_url: "https://medium.com/@krizvi"
-resume_print_social_links: true
+resume_print_social_links: false
 
 # Design settings
 resume_theme: default

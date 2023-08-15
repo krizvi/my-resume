@@ -1,147 +1,109 @@
 #Jobs
-- position: Cloud Engineer & Modernization Specialist
-  company: Grants.Gov, Remote, Vienna, VA
-  duration: Jan 2022 - Present
+- position: Application** Administrator
+  company: Fifth Technologies** – New York, NY
+  duration: 12/2022 - Present
   summary: >
-    Championed the strategic 'Lift and Shift' initiative for Grants.Gov by 
-    devising a resilient architecture, facilitating the seamless transition 
-    of on-premise codebases from Sun machines to AWS EC2. Orchestrated the 
-    revamp of two critical business services, which originally utilized 
-    nodejs and knockoutjs, to function efficiently on AWS ECS on Fargate. 
-    Showcased leadership in transitioning pivotal applications such as 
-    Search, Adobe AEM, and SOLR to EC2. In the modernization stride, 
-    executed a strategic migration of API routes from F5 load-balancers to 
-    AWS API Gateway, paving the way for enhanced performance and scalability. 
-    This significant contribution not only optimized processes but also 
-    laid the groundwork for future cloud-centric innovations.
+    <p>At Fifth Gen, I played an instrumental role in overseeing the backend
+    infrastructure of several Java-based web applications, ensuring they
+    consistently delivered high availability and peak performance. My
+    proactive approach in implementing advanced monitoring and alert systems
+    led to a significant 20% reduction in downtime. Additionally, my
+    leadership in conducting rigorous security audits resulted in a 30%
+    decrease in potential security threats. My expertise in crafting robust
+    <strong>RESTful APIs</strong> using Java and the Spring Framework
+    streamlined communication between frontend and backend systems, enhancing
+    overall application efficiency.</p>
+    
+    <p>My technical acumen extended beyond backend operations. I collaborated
+    closely with the frontend team, leveraging <strong>Node.js, Express, and
+    React</strong> to develop interactive user interfaces that elevated the
+    user experience. My initiative to implement server-side rendering
+    (<strong>SSR</strong>) not only improved initial page load times but also
+    optimized search engine visibility. Furthermore, my commitment to
+    mentoring saw me regularly conduct code reviews and provide guidance to
+    junior developers, ensuring the team consistently produced high-quality
+    code and fostered a culture of continuous learning.</p>
 
-- position: Integration Architect
-  company: Los Angeles Metropolitan Transportation Authority (LAMETRO), Los Angeles, CA
-  duration: Mar 2020 - Jan 2022
+- position: Front-End Mobile Application Developer
+  company: PRISM ANALYTICS, Washington, DC
+  duration: Feb 2022 - Nov 2022
   summary: >
-    At LAMETRO, spearheaded the conception and deployment of sophisticated 
-    interfaces utilizing Dell Boomi, achieving seamless integration between 
-    EAM Hexagon and Oracle databases. Pioneered the transformation of 
-    diverse data formats and orchestrated robust data integration strategies 
-    to augment system efficiency. Capitalized on Dell Boomi's full potential 
-    to tackle intricate integrations, mentored team members, and consistently 
-    delivered high-impact, strategic data management solutions.
+    <p>During my tenure at Prism Analytics, I played a pivotal role in 
+    modernizing the Grants.gov mobile application. I collaborated closely 
+    with HHS (The Department of Human & Health Services) to successfully 
+    upgrade to the latest <strong>React Native framework</strong>, enhancing 
+    the overall user experience for federal grant searches on mobile 
+    devices.</p>
 
-- position: Technology Specialist
-  company: New York Metropolitan Transportation Authority (NYMTA), New York, NY
-  duration: Jan 2019 - Mar 2020
-  summary: >
-    At NYMTA, headed the integration of the esteemed EAM Asset Management 
-    Software, innovated automated systems for electric bus data acquisition, 
-    and architected a RESTful application for superior message propagation 
-    and database integration. Conceived a cutting-edge real-time supply 
-    chain solution, revolutionizing inventory management practices.
+    <p>Under the mentorship of seasoned Java backend developers, I 
+    significantly optimized the application's performance. My contributions 
+    spanned from developing and deploying the latest version of the app, 
+    maintaining its UI, to introducing innovative features like two-factor 
+    authentication using Auth 2.0.</p>
 
-- position: Big Data / Integration Architect
-  company: PayPal, San Jose, CA
-  duration: Apr 2018 - Oct 2018
-  summary: >
-    Collaborated with PayPal's team to proactively identify and rectify 
-    potential data inconsistencies within payment pipelines through diligent 
-    auditing, root cause analysis, and synergistic collaboration with 
-    stakeholder SMEs. Leveraged a suite of technologies such as Scala, Java 
-    8, Spring Suite, NodeJS, Angular, Kafka, Databricks, Jenkins CD/CI, GCP, 
-    and Kubernetes.
+    <p>I thrived in a collaborative environment, working alongside 
+    multidisciplinary teams and leveraging <strong>Agile development 
+    frameworks</strong>. My efforts in authoring code enhancements and 
+    translating technical concepts ensured a robust foundation for future 
+    developers on the Grants.gov platform. Furthermore, my collaboration 
+    with the <strong>AWS migration team</strong> was instrumental in 
+    facilitating a seamless transition to AWS cloud computing, showcasing 
+    my adaptability and forward-thinking approach.</p>
 
-- position: Batch System Design
-  company: Daito Corporation, Tokyo, JP & Saigon, VN
-  duration: Oct 2017 - Apr 2018
+- position: Application Developer
+  company:  REFINITIV LSEG, New York, NY
+  duration: Oct 2020 - Jan 2022
   summary: >
-    Devised innovative solutions to elevate machine-generated code 
-    performance and scalability for Daito Corporation. Introduced an 
-    actor-based framework to facilitate parallel code execution, employing 
-    technologies like Java 8, Redis 4, Spring Boot, Akka, Guice, Scala, and Docker.
+    <p>During my tenure at <strong>Refinitiv</strong>, an esteemed LSEG 
+    business, I was deeply involved in enhancing the functionality and 
+    efficiency of our financial platforms. My collaborations with 
+    stakeholders ensured the delivery of optimal project capabilities, 
+    while my hands-on work in updating NAIC ratings, CLO deals, and 
+    Refinitiv LPC products showcased my dedication to accuracy and 
+    relevance in financial data.</p>
 
-- position: Loyalty System Design, Software Architect
-  company: Mastercard, O’Fallon, MO
-  duration: Nov 2016 - Oct 2017
-  summary: >
-    Orchestrated the comprehensive redesign of Mastercard's global customer 
-    loyalty system, achieving reduced latency and propelling revenue growth 
-    through seamless integrations. Utilized an array of technologies such as 
-    Java 8, Spring Boot, Kafka, NodeJS, Splunk, Scala, Apache Spark, 
-    Databricks, and Docker.
+    <p>My technical prowess was evident in my extensive use of the 
+    <strong>MySQL</strong> database for efficient financial data management 
+    and in the development of applications using <strong>ASP.NET, 
+    JavaScript, and SQL Server</strong>. I took pride in optimizing 
+    database performance, designing efficient schemas, and crafting 
+    optimized SQL queries. My role also encompassed the integration of 
+    third-party APIs, troubleshooting production issues, and logging 
+    critical user activities to enhance system security and performance.</p>
 
-- position: Rules Architect
-  company: Safe Drinking Water Information System (SDWIS), US EPA, DC
-  duration: Jul 2014 - Nov 2016
-  summary: >
-    At the helm of the Safe Drinking Water Information System (SDWIS) 
-    initiative for the US Environmental Protection Agency in DC, played 
-    a pivotal role in pioneering the design, development, and deployment 
-    of an advanced inference rule-based transactional system. Utilizing 
-    AngularJS for a responsive and interactive frontend experience in tandem 
-    with a robust backend powered by Spring Boot, the system harnessed the 
-    capabilities of rule engines like Drools and Jess to ensure intricate 
-    logic processing and decision-making. This technological amalgamation 
-    and innovation significantly enhanced regulatory adherence, ensuring 
-    water quality standards were not only met but exceeded. Through this 
-    strategic intervention, the SDWIS witnessed a marked improvement in 
-    water quality monitoring, setting a new benchmark for environmental 
-    standards and reinforcing the commitment to safe drinking water for all.
+    <p>My contributions extended beyond technical tasks. I kept a keen eye 
+    on executive roles in People Stories Reports, updated fundraising 
+    information, and stayed abreast of credit facilities and loans 
+    pertinent to the middle market. Furthermore, I played a pivotal role 
+    in updating company executives on private equity fund allocations and 
+    investments. My commitment to excellence was further highlighted 
+    through my active participation in design development meetings, code 
+    reviews, and the authoring of code enhancements for future releases.</p>
 
-- position: Technical Lead
-  company: Health Care Mental eScreening, Veterans Health Administration (VHA), DC
-  duration: Jul 2013 - Jul 2014
+- position: Junior Java Developer
+  company:  TRI-STATE LIMO, New York, NY
+  duration:  Jun 2015 - Oct 2019
   summary: >
-    Conceptualized a metadata-driven application for VHA, optimizing mental 
-    health care enrollment processes for veterans. The innovative system 
-    facilitated remote assessment administration and instantaneous clinical 
-    information dissemination to VA electronic medical records.
+    <p>As a junior full-stack developer intern, I played a pivotal role in 
+    the design and development of a comprehensive limousine transportation 
+    solution. This innovative platform was crafted to assist our client in 
+    managing the multifaceted operations associated with fleet maintenance. 
+    The solution's centerpiece is an automated dashboard, developed using 
+    <strong>Java Spring Boot</strong>, which streamlines daily intake logging 
+    for fleet deployment.</p>
 
-- position: Chief Rules Architect
-  company: Civilian Health and Medical Program (CHAMPVA), Department of Veteran Affairs, DC
-  duration: Sep 2011 - Oct 2012
-  summary: >
-    At CHAMPVA, served as a key JRules authority, designing and executing 
-    business rules governing application intake, enrollment procedures, 
-    eligibility criteria, and claim benefits.
+    <p>Among the solution's standout features are tailored client pickup 
+    bookings, bi-weekly payroll processing for staff, monthly invoice 
+    generation, and predictive scheduling tools. These functionalities 
+    empower executives, fleet managers, and line staff to capture, gauge, 
+    and dissect the intricacies of fleet maintenance and operational costs. 
+    Furthermore, the platform boasts robust reporting capabilities, 
+    equipped with decision support tools that aid in cost and inventory 
+    management.</p>
 
-- position: Technical Lead
-  company: Agricultural Risk Management (ARM), USDA, DC
-  duration: Jan 2011 - Aug 2011
-  summary: >
-    Contributed to ARM by architecting and deploying a system dedicated to
-    recording intricate inspection data, bolstering the diagnostic accuracy
-    for detecting potential pests in imported plant materials
-
-- position: Application Architect
-  company: Veterans Benefits Administration (VBA), TN
-  duration: July 2009 - Dec 2010
-  summary: >
-    Designed and realized a state-of-the-art web application for VBA, aimed 
-    at evaluating counselors' service delivery to veterans. The intuitive 
-    system incorporated a range of Java EE technologies for efficient data 
-    reception, questionnaire processing, and review logic representation.
-
-- position: Integration Consultant
-  company: Veterans Health Administration (VHA), VA
-  duration: Nov 2007 – July 2009
-  summary: >
-    At VHA, pinpointed opportunities for artifact repurposing, negotiated 
-    design modifications, facilitated inter-project communication, converted 
-    policies into concrete architectural blueprints, and upheld requirement traceability.
-
-- position: Search Engine Architect
-  company: Grants.gov, Oakton, VA
-  duration: Nov 2006 - Nov 2007
-  summary: >
-    Revolutionized the search functionality for Grants.gov by replacing a 
-    database-centric search mechanism with an advanced Google-based solution 
-    via Google Search Appliance (GSA), all while preserving the original UI 
-    and ensuring instantaneous search capabilities for newly updated grants.
-
-- position: Principal Consultant
-  company: Computer Science Corporation (CSC), Waltham, MA
-  duration: Jul 1997 - Nov 2006
-  summary: >
-    Embarked on a journey with CSC as a Forte developer and progressively 
-    transitioned to a Java-centric solutions consultant role. Engaged 
-    extensively with the core Architecture Services division, contributing 
-    to diverse projects spanning multiple industries and covering an 
-    extensive range of SDLC phases.
+    <p>My contributions extended beyond development. I meticulously 
+    documented software specifications, provided remote customer support 
+    via an e-ticketing system, and optimized web assets for peak 
+    performance. My technical acumen was further showcased as I diagnosed 
+    and rectified code errors, ensuring seamless integration of proprietary 
+    applications.</p>
